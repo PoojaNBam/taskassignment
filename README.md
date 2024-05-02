@@ -1,6 +1,7 @@
 # taskassignment
 
-A new Flutter project.
+In This Project Curd Operation Done
+User Detail Store in firebase and retrive data 
 
 ## Getting Started
 
